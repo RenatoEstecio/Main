@@ -1,0 +1,1 @@
+Obs:O executável pode apresentar problemas de compatibilidade com alguns drivers gráficos.
